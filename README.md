@@ -14,7 +14,6 @@ Tecnologias utilizadas:
     - MongoDB
     - Ionic
     - Cordova
-    - Capistrano
     - Git
     - Docker
 

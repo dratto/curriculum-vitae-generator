@@ -7,6 +7,7 @@ Tecnologias utilizadas:
     - Jasmine
     - AngularJS
     - jQuery
+    - TypeScript
 
 - Back-end:
     - Python

@@ -13,8 +13,7 @@ Tecnologias utilizadas:
     - Python
     - Django
     - MongoDB
-    - Ionic
-    - Cordova
+    - React Native
     - Git
     - Docker
 
